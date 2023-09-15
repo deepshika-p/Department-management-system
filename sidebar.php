@@ -40,7 +40,7 @@
           Student
         </button> </span></a>
         <div class="collapse" id="student-collapse">
-          <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+          <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small" style="padding-left: 2rem;">
             <li><a href="student.php" class="link-light rounded">Add Student</a></li>
             <li><a href="display_student.php" class="link-light rounded">Student List</a></li>
             <li><a href="project.php" class="link-light rounded">Add Project</a></li>
@@ -53,7 +53,7 @@
        <li class="mb-1">
             <a href="#" class="nav_link"> <i class='bx bx-buildings nav_icon'></i> <span class="nav_name"><button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#dept-collapse" aria-expanded="false">Department</button></span> </a> 
               <div class="collapse" id="dept-collapse">
-          <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+          <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small" style="padding-left: 2rem;">
             <li><a href="department.php" class="link-light rounded">Add Department</a></li>
             <li><a href="faculty.php" class="link-light rounded">Add Faculty</a></li>
             <li><a href="display_faculty.php" class="link-light rounded">Faculty List</a></li>
@@ -66,7 +66,7 @@
       <li class="mb-1">
             <a href="#" class="nav_link"> <i class='bx bx-folder nav_icon'></i> <span class="nav_name"><button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#links-collapse" aria-expanded="false">Quick Links</button></span> </a> 
               <div class="collapse" id="links-collapse">
-          <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+          <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small" style="padding-left: 2rem;">
             <li><a href="file/calendar.pdf" class="link-light rounded">Academic Calendar</a></li>
             <li><a href="file/syllabus.pdf" class="link-light rounded">Syllabus</a></li>
             <li><a href="file/timetable.pdf" class="link-light rounded">Class Time Table</a></li>
@@ -86,7 +86,6 @@
        <a href="logout.php" class="nav_link"> <i class='bx bx-log-out nav_icon'></i> <span class="nav_name">Sign Out</span> </a>
     </nav>
 </div>
- <script src="js/bootstrap.bundle.min.js"></script>
 
       <script src="js/sidebars.js"></script>
   </body>
