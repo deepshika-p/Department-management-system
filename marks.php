@@ -28,13 +28,13 @@
     ?>
 
 
-<?php include('header.php'); ?>
-
 <head>
 <title>Marks</title>
 </head>
-<body class="d-flex flex-column">
+<body class="d-flex flex-column" id="body-pd">
+    <?php include "header.php";?>
     <main class="flex-shrink-0">
+      <?php include "sidebar.php";?>
         <section class="py-5">
             <div class="container px-5">
                 <div class="bg-light rounded-3 py-5 px-4 px-md-5 mb-5">
