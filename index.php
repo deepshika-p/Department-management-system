@@ -11,9 +11,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>TASC</title>
-    <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-    <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
     <link href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
@@ -37,50 +35,7 @@
             </div>
         </header>
 
-        <!-- Features section
-        <section class="py-5" id="features">
-            <div class="container px-5 my-5">
-                <div class="row gx-5">
-                    <div class="col-lg-4 mb-5 mb-lg-0">
-                        <h2 class="fw-bolder mb-0">A better way to start AI</h2>
-                    </div>
-                    <div class="col-lg-8">
-                        <div class="row gx-5 row-cols-1 row-cols-md-2">
-                            <div class="col mb-5 h-100">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                                        class="bi bi-collection"></i></div>
-                                <h2 class="h5">Featured title</h2>
-                                <p class="mb-0">Paragraph of text beneath the heading to explain the heading. Here is
-                                    just a bit more text.</p>
-                            </div>
-                            <div class="col mb-5 h-100">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                                        class="bi bi-building"></i></div>
-                                <h2 class="h5">Featured title</h2>
-                                <p class="mb-0">Paragraph of text beneath the heading to explain the heading. Here is
-                                    just a bit more text.</p>
-                            </div>
-                            <div class="col mb-5 mb-md-0 h-100">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                                        class="bi bi-toggles2"></i></div>
-                                <h2 class="h5">Featured title</h2>
-                                <p class="mb-0">Paragraph of text beneath the heading to explain the heading. Here is
-                                    just a bit more text.</p>
-                            </div>
-                            <div class="col h-100">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                                        class="bi bi-toggles2"></i></div>
-                                <h2 class="h5">Featured title</h2>
-                                <p class="mb-0">Paragraph of text beneath the heading to explain the heading. Here is
-                                    just a bit more text.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>-->
-
-    <header class="py-5">
+    <div class="py-5">
             <div class="container px-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-xxl-8">
@@ -94,7 +49,7 @@ Centre of Excellence in AI and ML is equipped with the latest computers and stat
                     </div>
                 </div>
             </div>
-        </header>
+        </div>
         
     </main>
 
@@ -105,13 +60,6 @@ Centre of Excellence in AI and ML is equipped with the latest computers and stat
                 <div class="col-auto">
                     <div class="small m-0 text-white">Made in 2023</div>
                 </div>
-                <!--<div class="col-auto">
-                    <a class="link-light small" href="#!">Privacy</a>
-                    <span class="text-white mx-1">&middot;</span>
-                    <a class="link-light small" href="#!">Terms</a>
-                    <span class="text-white mx-1">&middot;</span>
-                    <a class="link-light small" href="#!">Contact</a>
-                </div>-->
             </div>
         </div>
     </footer>
@@ -119,7 +67,6 @@ Centre of Excellence in AI and ML is equipped with the latest computers and stat
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Core theme JS-->
 
 </body>
 
